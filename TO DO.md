@@ -1,0 +1,5 @@
+- [x] Escribir parser para interpretar y rellenar información faltante 
+- [ ] Verificar que variables nos aportan información
+- [ ] Ampliar diccionario para procesar más información
+- [ ] Cruzar dataset GCBA de u$d/m2
+- [ ] Determinar cual es el encoding que dé mejor resultado al leer el archivo CSV
