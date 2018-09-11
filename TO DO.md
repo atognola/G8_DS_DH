@@ -4,8 +4,12 @@
 - [ ] Buscar patrones y regEx para ampliar diccionario para procesar más información
 - [X] Determinar cual es el encoding que dé mejor resultado al leer el archivo CSV - es 'utf-8-sig'
 - [ ] Gráficar para ver los datos?
-- [ ] Buscar estrategias para inferir la información faltante - Priscilla
+- [ ] Buscar estrategias para inferir la información faltante - Priscila
 - [ ] Cruzar dataset GCBA de u$d/m2?
+- [ ] Revisar columnas para ver qué información se puede conseguir
+- [ ] Ver información de precios - Brunilda
+- [ ] Ver información de floors - Lucas
+- [ ] Ver información de superficies - Priscila
 
 Objetivos:
 - [ ] Efectuar una limpieza del dataset provisto
