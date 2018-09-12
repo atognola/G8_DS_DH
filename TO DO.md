@@ -16,3 +16,10 @@ Objetivos:
 - [ ] Diseñar estrategias para lidiar con los datos perdidos en ciertas variables.
 - [ ] Realizar un análisis descriptivo de las principales variables.
 - [ ] Crear nuevas columnas a partir de las características dadas que puedan tener valor predictivo.
+
+PPT:
+- [ ] Análisis descriptivo de las variables - Priscila
+- [ ] Explicar parser brevemente - Ale
+- [ ] Explicar el problema - Brunilda
+- [ ] Mostrar gráficos representativos de exploración de datos
+- [ ] Calcular media y desvío std de precios x region para ver outliers? Buscar máximos..
